@@ -1,0 +1,7 @@
+server:
+  port: 8888 # 服务端口号(尽量不要修改此端口号)
+eureka:
+  instance:
+    hostname: localhost # 注册中心IP
+  port: 8001 #注册中心端口
+  
